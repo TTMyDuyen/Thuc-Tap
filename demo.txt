@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 14dffagaa
 hiiiii
+=======
+ggggggggggg
+dhcfbsa
+
+adding new line
+>>>>>>> 70822c618398fb77a200b61ad0b8c03606bc61bb
